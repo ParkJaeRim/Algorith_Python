@@ -27,3 +27,20 @@ for i in range(1,101):
         sum += i
         
 print("1부터 100사이의 숫자 중 3의 배수의 총합: %d" %sum)
+
+----------------------------------------------------------------
+
+#6242
+student = ['A', 'A', 'A', 'O', 'B', 'B', 'O', 'AB', 'AB', 'O']
+blood = {'A': 0, 'O':0,'B':0, 'AB':0}
+for i in range (10):
+  if student[i] == 'A':
+    blood['A']+=1
+  elif student[i] == 'B':
+    blood['B']+=1
+  elif student[i] == 'O':
+    blood['O']+=1
+  else:
+    blood['AB']+=1
+    
+print(blood)
