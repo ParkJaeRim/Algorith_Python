@@ -44,3 +44,21 @@ for i in range (10):
     blood['AB']+=1
     
 print(blood)
+
+
+---------------------------------------------------------------
+
+#6244
+
+student = [85, 65, 77, 83, 75, 22, 98, 88, 38, 100]
+sums = 0
+i = 0
+a= 0
+while i<10 and i<len(student):
+  if student[i] >= 80:
+    a += student.pop(i)
+    
+  else:
+    i+=1
+print(a)
+
