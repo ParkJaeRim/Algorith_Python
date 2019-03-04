@@ -16,6 +16,10 @@
 # 3. Own Assignment
 
 <2월> <br>
+<details>
+  <summary>Click to expand</summary>
+  whatever
+</details>
 
 날짜 | SEA | 틀린문제| BJ | 틀린문제
 :---:|:---: |:---: |:---:|:---:
