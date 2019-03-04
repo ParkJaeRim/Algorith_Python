@@ -3,8 +3,6 @@
 [[My Profile]](https://www.acmicpc.net/user/riim715)
 
 #### >> 푸는 대로 업로드 할 예정
-
-
 # 2. SEA
 
 또 다른 알고리즘 공부 사이트 
@@ -14,7 +12,8 @@
 
 
 
-# 3. Own Assignment
+# 3. Which Done :v:
+
 
 <details>
   <summary>  February </summary>
