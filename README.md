@@ -2,6 +2,8 @@
 
 [[My Profile]](https://www.acmicpc.net/user/riim715)
 
+<br>
+
 #### >> 푸는 대로 업로드 할 예정
 # 2. SEA
 
@@ -10,6 +12,7 @@
 2019-02-06 현재 공부 중 : 파이썬 프로그래밍 기초(1), 파이썬 SW문제해결 기본
 2019-03-03 : 파이썬 프로그래밍 기초(2)
 
+<br>
 
 # 3. Monthly Plan :heavy_check_mark: 
 
