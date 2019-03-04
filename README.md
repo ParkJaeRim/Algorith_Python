@@ -16,7 +16,7 @@
 # 3. Own Assignment
 
 <details>
-  <summary>  2월  </summary>
+  <summary>  Feb  </summary>
 
 날짜 | SEA | 틀린문제| BJ | 틀린문제
 :---:|:---: |:---: |:---:|:---:
@@ -32,12 +32,14 @@
 
 </details>
 
-
-
-<3월> <br>
-
+<br> <br>
+<details>
+  <summary>  March  </summary>
 날짜 | SEA | 틀린문제| BJ | 틀린문제
 :---:|:---: |:---: |:---:|:---:
 3/3 | 30차시 | . | #2752 <br> (Counting / Radix Sort) | Radix Sort 코드 못 짬
 3/4 | 12장 | 5,10,13,25차시 <br> enumerate() 복습 | 
 예정 | 10장 강의 | .  | sort 복습 (안보고 쓸 수 있을 때까지) 
+  
+</details>
+
