@@ -16,7 +16,7 @@
 # 3. Own Assignment
 
 <details>
-  <summary>  Feb  </summary>
+  <summary>  february </summary>
 
 날짜 | SEA | 틀린문제| BJ | 틀린문제
 :---:|:---: |:---: |:---:|:---:
