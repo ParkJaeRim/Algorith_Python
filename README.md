@@ -15,9 +15,8 @@
 
 # 3. Own Assignment
 
-<2월> <br>
 <details>
-  <summary>Click to expand</summary>
+  <summary> # 2월 </summary>
   날짜 | SEA | 틀린문제| BJ | 틀린문제
 :---:|:---: |:---: |:---:|:---:
 2/8 | #4828 | . | #15552, #2577, #4344 | .
