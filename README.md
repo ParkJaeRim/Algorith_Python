@@ -11,8 +11,9 @@
 2019-03-03 : 파이썬 프로그래밍 기초(2)
 
 
+# 3. Monthly Plan :heavy_check_mark: 
 
-# 3. Which Done ? :v:
+# 4. Which Done ? :v:
 
 
 <details>
