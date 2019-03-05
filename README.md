@@ -55,7 +55,7 @@
 :---:|:---: |:---: |:---:|:---:
 3/3 | 30차시 | . | #2752 <br> (Counting / Radix Sort) | Radix Sort 코드 못 짬
 3/4 | 12장 | 5,10,13,25차시 | enumerate() 복습 | 
-3/5 | 46차시 | lambda식의 reduce 메쏘드 등 복습하기
+3/5 | 46차시 | lambda식, reduce 메쏘드 등 복습
 예정 | 10장 강의 | .  | sort 복습 (안보고 쓸 수 있을 때까지) 
   
 </details>
