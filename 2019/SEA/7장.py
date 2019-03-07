@@ -115,3 +115,24 @@ for k in range (5):
  
   i-=1
   j+=1
+  
+  
+----------------------------------------------------------
+#6253
+
+given_num = int(input())
+two_list = []
+    
+while given_num > 1 :
+    two_list.append(given_num%2)
+    given_num = given_num // 2
+
+if given_num==1:
+    two_list.append(1)
+    
+if given_num == 0 :
+    two_list.append(0)
+     
+for j in range (len(two_list)):
+    print(two_list[len(two_list)-j-1], end='')
+  
