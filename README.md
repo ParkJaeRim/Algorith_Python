@@ -16,7 +16,13 @@
 
 <br>
 
-# 3. Monthly Plan :heavy_check_mark: 
+# 3. To Study Trend
+
+  여러 기업들의 최신 트렌드에 대한 컨퍼런스 영상 및 게시글들을 읽고 일주일에 한 개라도 업로드할 예정
+ 
+<br>
+
+# 4. Monthly Plan :heavy_check_mark: 
 
 - [ ] 3, 4월 - 2회차 정보처리기사 필기시험(4/27) 응시를 위한 공부
 
@@ -31,7 +37,7 @@
 
 <br>
 
-# 4. Which Done ? :v:
+# 5. Which Done ? :v:
 
 
 <details>
