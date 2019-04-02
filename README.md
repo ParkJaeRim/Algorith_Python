@@ -23,15 +23,8 @@
 * 2019-04-01 : 파이썬 프로그래밍 기본(4)
 <br>
 
-# 3. To Study Technology
 
-  여러 기업들의 최신 트렌드 및 기술에 대한 컨퍼런스나 게시글들을 보거나 읽고
-  
-  해당 사항에 대해 Review를 업로드할 예정 (190308~)
- 
-<br>
-
-# 4. Monthly Plan :heavy_check_mark: 
+# 3. Monthly Plan :heavy_check_mark: 
 
 - [ ] 3, 4월 - 2회차 정보처리기사 필기시험(4/27) 응시를 위한 공부
 
@@ -54,7 +47,7 @@
 
 <br>
 
-# 5. Which Done ? :v:
+# 4. Which Done ? :v:
 
 
 <details>
@@ -106,3 +99,11 @@
 4/1 | 반복문자지우기 | ~~괄호검사~~ | .
 4/2 | 괄호검사 <br>  |
 </details>
+
+<br>
+
+# 5. I will... :see_no_evil:
+
+* Django
+
+* Natural Language Processing
