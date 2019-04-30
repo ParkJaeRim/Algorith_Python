@@ -118,3 +118,5 @@
 * Django
 
 * Natural Language Processing
+
+* 정보처리기사 (접수 : 7/5 ~ 7/11 , 시험 : 8/4)
