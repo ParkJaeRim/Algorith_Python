@@ -145,7 +145,7 @@
 <br>
 
 <details>
-  <summary>  May  </summary>
+  <summary>  July  </summary>
   
 날짜 | BJ | 틀린문제
 :---:|:---:|:---:
