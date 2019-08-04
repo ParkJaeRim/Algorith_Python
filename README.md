@@ -181,5 +181,7 @@
 * Natural Language Processing
 
 * 정보처리기사 
+<br>
  : 필기 (접수 : 7/5 ~ 7/11 , 시험 : 8/4) -  합격 !!
+<br>
  : 실기 
