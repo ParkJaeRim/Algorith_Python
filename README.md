@@ -65,10 +65,10 @@
 <br>
 
 # 4. Which Done ? :v:
-
-
 <details>
-  <summary>  February </summary>
+   <summary>  Feb ~ Jul </summary>
+   <details>
+      <summary>  February </summary>
 
 날짜 | SEA | 틀린문제| BJ | 틀린문제
 :---:|:---: |:---: |:---:|:---:
@@ -163,6 +163,7 @@
 </details>
 
 <br>
+</details>
 
 <details>
   <summary>  August  </summary>
