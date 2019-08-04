@@ -26,9 +26,10 @@
 <br>
 
 
-# 3. Monthly Plan :heavy_check_mark: 
+# 3. Weekly Plan :heavy_check_mark: 
 
-
+<details>
+   
 - [X] 3월 1주차 - 파이썬 프로그래밍 기초 (1) - 190307 수료
 
 - [X] 3월 1주차 - 파이썬 프로그래밍 기초 (2) 
@@ -49,6 +50,7 @@
 
 - [ ] 5월 4주차 - 파이썬 프로그래밍 기본 (6), (7)
 
+</details>
 
 
 
