@@ -1,4 +1,5 @@
 # 1. Baekjoon 
+<details>
 
 * [[My Profile]](https://www.acmicpc.net/user/riim715) 
 
@@ -6,9 +7,13 @@
 
 * 2019-07-19 현재 공부 중 : CODE IT 강의 : 브루트 포스 및 해당 
 
+</details>
+
 <br>
 
 # 2. SEA
+
+<details>
 
  또 다른 알고리즘 공부 사이트 
 
@@ -23,12 +28,15 @@
 * 2019-03-29 : 파이썬 프로그래밍 기본(3)
 
 * 2019-04-01 : 파이썬 프로그래밍 기본(4)
+
+</details>
+
 <br>
 
 
 # 3. Weekly Plan :heavy_check_mark: 
 
-<>
+<details>
    
 - [X] 3월 1주차 - 파이썬 프로그래밍 기초 (1) - 190307 수료
 
@@ -50,10 +58,7 @@
 
 - [ ] 5월 4주차 - 파이썬 프로그래밍 기본 (6), (7)
 
-</>
-
-
-
+</details>
 
 
 
