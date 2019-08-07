@@ -165,14 +165,14 @@
 <br>
 </details>
 
-<details>
-  <summary>  August  </summary>
+
+<summary>  August  </summary>
   
 날짜 | 강의| BJ | 틀린문제 | 그 외
 :---:|:---:|:---:|:---: |:---:
 8/4 | .| . | . | 정보처리기사 필기 (합격) |
-8/6 | 그래프 | 로또 |
-</details>
+8/6 | 그래프 | 로또 / 1,2,3 더하기 |
+
 
 <br>
 
