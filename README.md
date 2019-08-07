@@ -166,7 +166,7 @@
 </details>
 
 
-<summary>  August  </summary>
+__▶ August__
   
 날짜 | 강의| BJ | 틀린문제 | 그 외
 :---:|:---:|:---:|:---: |:---:
