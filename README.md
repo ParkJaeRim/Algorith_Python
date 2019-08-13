@@ -144,3 +144,5 @@ __▶ August__
 * Natural Language Processing
 
 * 정보처리기사 (필기 : 8/4 (합격) , 실기 : 10/13 (예정))
+
+* OPIc (목표 : IH ↑)
