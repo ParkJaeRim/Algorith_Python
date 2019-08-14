@@ -132,7 +132,7 @@ __▶ August__
 8/8 | 그래프의 탐색(BFS,DFS) |  . |
 8/8 | BFS(1) / (2), <br> 덱 사용하기, Flood Fill | 부분집합의 합 | 테트로미노, 퇴사, <br> 연산자 끼워넣기
 8/13 | . | .| . | OPIc - 자기소개, 가족소개  
-8/14(예정) | 그래프의 탐색(BFS,DFS) <br> 재수강  | BFS,DFS <br> deque 사용하여 다시 | . | OPIc - 이웃
+8/14| 그래프의 탐색(BFS,DFS) <br> 재수강  | BFS,DFS <br> deque 사용하여 다시 | . | OPIc - 이웃
 
 
 
