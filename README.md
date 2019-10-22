@@ -185,4 +185,4 @@ __▶ October__
 
 * OPIc (목표 : IH ↑) - 현재 : IM2
 
-* 따고 싶은 자격증 : 데이터분석 준전문가 or 전문가 / SQL관련 자격증 / 운전면허 / ISTQB
+* 따고 싶은 자격증 : ADsP / SQLD / 운전면허 / ISTQB
