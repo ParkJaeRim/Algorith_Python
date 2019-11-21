@@ -181,8 +181,8 @@ __▶ October__
 
 * Natural Language Processing
 
-* 정보처리기사 (필기 : 8/4 (합격) , 실기 : 10/13 (채점중))
+* 정보처리기사 (필기 : 8/4 (합격) , 실기 : 10/13 (채점중)) 
 
 * OPIc (목표 : IH ↑) - 현재 : IM2
 
-* 따고 싶은 자격증 : ADsP / SQLD / 운전면허 / ISTQB
+* 따고 싶은 자격증 : **ADsP(11/23 시험 예정)** / SQLD / 운전면허 / ISTQB
