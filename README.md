@@ -186,3 +186,5 @@ __▶ October__
 * OPIc (목표 : IH ↑) - 현재 : IM2
 
 * 따고 싶은 자격증 : **ADsP(11/23 시험 예정)** / SQLD / 운전면허 / ISTQB
+
+* Samsung Software Academy For Youth(SSAFY) 3기 합격:v:
